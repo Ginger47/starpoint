@@ -1,0 +1,1 @@
+.\mitmweb.exe --mode wireguard --set connection_strategy=lazy -s ..\scripts\mitm-redirect-traffic.py
